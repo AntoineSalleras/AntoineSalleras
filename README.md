@@ -1,20 +1,20 @@
 ![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 <h1 align="center">Hi 👋, I'm Antoine Salleras</h1>
 <h3 align="center">A passionate developer and an open minded flask owner 🍵</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/185465/screenshots/1850622/bipolare_gif.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/185465/screenshots/1850622/bipolare_gif.gif">
 
 
 - 🔭 I’m currently working on **an OPQUAST certification**
 
 - 🌱 I’m currently learning **Next.js and the Python ecosystem**
 
-- 👯 I’m looking to collaborate on **any project involved in volunteering, especially if it involves helping our planet 🌍 and people who need it most**
+- 👯 I’m looking to collaborate on **any project involved in volunteering, especially if it involves helping our planet 🌍 or the people who need it most**
 
-- 💬 Ask me about **anything and let's have a great discussion**
+- 💬 Ask me about **anything and let's have a great conversation**
 
 - 📫 How to reach me **antoinesalleras@gmail.com**
 
-- ⚡ Fun fact **Me being a blockchain enthusiast doesn't necessarily mean I trade cryptocurrencies (or it does who knows)**
+- ⚡ Fun fact **Me being a blockchain enthusiast doesn't necessarily mean I trade cryptocurrencies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
