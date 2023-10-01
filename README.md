@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **an OPQUAST certification**
 
-- 📒 I’m currently learning **Next.js and the Python ecosystem**
+- 📒 I’m currently learning **Python**
 
 - 🤝🏼 I’m looking to collaborate on **any project involved in volunteering, especially if it involves helping our planet 🌍 or the people who need it most**
 
